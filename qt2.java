@@ -23,7 +23,8 @@ public class Notes {
         sum += i;
     }
     System.out.println(sum);
-   
+
+        scanner.close();
   
     }
 
